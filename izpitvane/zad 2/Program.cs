@@ -37,6 +37,6 @@ namespace zad_2
                     names.Remove(a[1]);
                 }
                 a = Console.ReadLine().Split().ToArray();
-            }
+        }    }
     }
 }
