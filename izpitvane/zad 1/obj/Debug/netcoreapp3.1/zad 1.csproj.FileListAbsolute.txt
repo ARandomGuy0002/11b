@@ -1,0 +1,13 @@
+C:\Users\Student\Documents\bashta ti 11b\11b\izpitvane\zad 1\bin\Debug\netcoreapp3.1\zad 1.exe
+C:\Users\Student\Documents\bashta ti 11b\11b\izpitvane\zad 1\bin\Debug\netcoreapp3.1\zad 1.deps.json
+C:\Users\Student\Documents\bashta ti 11b\11b\izpitvane\zad 1\bin\Debug\netcoreapp3.1\zad 1.runtimeconfig.json
+C:\Users\Student\Documents\bashta ti 11b\11b\izpitvane\zad 1\bin\Debug\netcoreapp3.1\zad 1.runtimeconfig.dev.json
+C:\Users\Student\Documents\bashta ti 11b\11b\izpitvane\zad 1\bin\Debug\netcoreapp3.1\zad 1.dll
+C:\Users\Student\Documents\bashta ti 11b\11b\izpitvane\zad 1\bin\Debug\netcoreapp3.1\zad 1.pdb
+C:\Users\Student\Documents\bashta ti 11b\11b\izpitvane\zad 1\obj\Debug\netcoreapp3.1\zad 1.csprojAssemblyReference.cache
+C:\Users\Student\Documents\bashta ti 11b\11b\izpitvane\zad 1\obj\Debug\netcoreapp3.1\zad 1.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\bashta ti 11b\11b\izpitvane\zad 1\obj\Debug\netcoreapp3.1\zad 1.AssemblyInfo.cs
+C:\Users\Student\Documents\bashta ti 11b\11b\izpitvane\zad 1\obj\Debug\netcoreapp3.1\zad 1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\bashta ti 11b\11b\izpitvane\zad 1\obj\Debug\netcoreapp3.1\zad 1.dll
+C:\Users\Student\Documents\bashta ti 11b\11b\izpitvane\zad 1\obj\Debug\netcoreapp3.1\zad 1.pdb
+C:\Users\Student\Documents\bashta ti 11b\11b\izpitvane\zad 1\obj\Debug\netcoreapp3.1\zad 1.genruntimeconfig.cache
