@@ -27,7 +27,7 @@ namespace ConsoleApp1
                 {
                     foreach (KeyValuePair<string, int> kvp in rechnik)
                     {
-                        Console.WriteLine("{0} -> {1}", kvp.Key, kvp.Value);
+                        Console.WriteLine("{0} -> {1}", kvp.Value, kvp.Key);
                     }
                     break;
                 }
